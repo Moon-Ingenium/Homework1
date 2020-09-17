@@ -3,22 +3,27 @@
     padding: 0;
     margin: 0;
 }
+
 body {
     background-color: #d9dcd6;
 }
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
+
 h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 .seo {
     color: #d9dcd6;
 }
+/* Navigates to sections directly */
 nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -26,27 +31,33 @@ nav{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 ul {
     list-style-type: none;
 }
+
 li {
     display: inline-block;
     margin-left: 25px;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Header image */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -59,9 +70,11 @@ a {
 .search-engine-optimization img {
     max-height: 200px;
 }
+
 p {
     font-size: 16px;
 }
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -70,17 +83,21 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .online-reputation-management img {
     max-height: 200px;
 }
+
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,13 +106,16 @@ h2 {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .social-media-marketing img {
     max-height: 200px;
 }
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,25 +127,30 @@ h2 {
     background-color: #2589bd;
     color: #ffffff;
 }
+/* Aside for additional information */
 .benefits article {
     margin-bottom: 32px;
 }
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Footer shows Copyright */
+
+/* copyright information */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 .footer h4 {
     font-size: 20px;
 }
